@@ -6,6 +6,8 @@ Página maquetada utilizando CSS3 y Bootstrap en el marco de Talento Digital - E
 - CSS3  
 - Bootstrap
 - Font Awesome
+- JavaScript
+- HTML dinámico
 
 ### Mockup Original en AdobeXD
 
